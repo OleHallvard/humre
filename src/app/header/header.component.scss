@@ -1,0 +1,12 @@
+@use "../../colors";
+
+.header-container {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  border-bottom: 1px solid colors.$humre-border-light;
+}
+
+.humre-logo-header {
+  margin-left: 20px;
+}
